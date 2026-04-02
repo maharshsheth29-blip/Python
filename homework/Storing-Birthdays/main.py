@@ -1,0 +1,10 @@
+raj_friend_1 = "2/2/22";
+raj_friend_2 = "3/3/23";
+raj_friend_3 = "4/4/24";
+raj_friend_4 = "5/5/25";
+raj_friend_5 = "6/6/26";
+print(raj_friend_1);
+print(raj_friend_2);
+print(raj_friend_3);
+print(raj_friend_4);
+print(raj_friend_5);
