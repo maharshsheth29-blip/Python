@@ -1,0 +1,6 @@
+a = int(input("enter a value: "))
+b = int(input ("enter value 2 : "))
+c = int(input("enter value 3: "))
+
+avg = (a + b + c) / 3
+print("avg =", avg)
